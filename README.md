@@ -5,13 +5,13 @@
 ## Table of Contents
 
 - [Project Overview](#project-overview)
-- [Business Objectives](#business-objectives)
 - [Dataset](#dataset)
 - [Data Preparation](#data-preparation)
 - [DAX & Analysis](#dax--analysis)
 - [Interactive Dashboard](#interactive-dashboard)
 - [Key Analysis Areas](#key-analysis-areas)
 - [Business Recommendations](#business-recommendations)
+- [Presentation](#presentation)
 
 
 ## Project Overview
@@ -111,24 +111,24 @@ Conditional formatting is used to highlight high profit regions and top selling 
 ## Key Analysis Areas
 
 **Sales Performance**  
-Sales increased from approximately **$43K to $60K** over three years.
+Sales increased from **$43K to $60K** between 2011 and 2014.
 
 **Product Performance**  
-**Office Supplies generated 93% of sales**, with **GBC DocuBind P400** the top product at approximately **$5K**.
+**Office Supplies generated 93.81% of sales**, with **GBC DocuBind P400** as the top product at approximately **$5.8K**.
+
+**Customer Performance**  
+**Andy Reiter** was the top customer at approximately **$5.5K**.
 
 **Geographic Performance**  
-**North America generated approximately $120K**, making it the strongest performing region.
-
-**Operational Performance**  
-Sales by Ship Date declined from approximately **$60K to $1K** within one year.
+The **United States generated approximately $120K** in sales.
 
 ## Business Recommendations
 
-1. **Replicate sales growth drivers**  
-   Compare growth and decline periods to identify and replicate successful strategies.
+1. **Analyse sales growth drivers** and replicate successful strategies.
+2. **Keep high demand products well stocked.**
+3. **Retain high value customers** through loyalty initiatives.
+4. **Prioritise the United States** for marketing and inventory.
 
-2. **Target high performing markets**  
-   Use North American sales patterns to inform targeted marketing campaigns.
+## Presentation
+[Global Superstore.pdf](https://github.com/user-attachments/files/32613039/Global.Superstore.pdf)
 
-3. **Investigate the shipping decline**  
-   Analyse the sharp Ship Date decline to identify the underlying cause.
